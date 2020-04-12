@@ -1,0 +1,19 @@
+dist : confiável
+sudo : obrigatório
+idioma : python
+python :
+  - " 2,7 "
+  - " 3,4 "
+  - " 3,5 "
+  - " 3,6 "
+
+before_install :
+- sudo apt-get -qq atualização
+- sudo apt-get install -qq cmake python-numpy python-scipy libboost-python-dev
+- instalação do pip git + https: //github.com/ageitgey/face_recognition_models
+
+instalar :
+  - instalação do pip -r requirements.txt
+  - pip install tox-travis
+
+roteiro : tox
