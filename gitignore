@@ -1,0 +1,65 @@
+# Arquivos compilados em bytes / otimizados / DLL
+__pycache__ /
+* .py [ cod ]
+* $ py.class
+
+Extensões # C
+* .so
+
+# Distribuição / embalagem
+.Pitão
+env /
+construir /
+desenvolver ovos /
+dist /
+downloads /
+ovos /
+.eggs /
+lib /
+lib64 /
+peças /
+sdist /
+var /
+* .egg-info /
+.installed.cfg
+* .egg
+
+# PyInstaller
+#   Geralmente, esses arquivos são gravados por um script python a partir de um modelo
+#   antes do PyInstaller criar o exe, para injetar data / outras informações nele.
+*. manifest
+* .spec
+
+# Logs do instalador
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Relatórios de teste / cobertura unitária
+htmlcov /
+.tox /
+.cobertura
+.cobertura. *
+.cache
+nosetests.xml
+cobertura.xml
+* , capa
+. hipótese /
+
+# Traduções
+* .mo
+* .pot
+.DS_Store
+
+# Coisas do Django:
+* .log
+
+# Documentação da esfinge
+docs / _build /
+
+# PyBuilder
+alvo /
+
+# pyenv arquivo de configuração python
+.python-version
+
+.idea /
