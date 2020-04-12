@@ -1,5 +1,4 @@
 # Reconhecimento-Facial-
 Reconhecimento Facial Python 
-
-Deixo aberto para qualquer pessoa colaborar para o conhecimento de Reconhecimento facial em Python
-EugênioPreza
+# Deixo para qualquer pessoa ajudar e colaborar sobre o Reconhecimento Facial em Python Brasil
+EugênioPreza.
