@@ -1,0 +1,6 @@
+face_recognition_models
+Clique em> = 6.0
+dlib> = 19.3.0
+entorpecido
+Travesseiro
+scipy> = 0.17.0
